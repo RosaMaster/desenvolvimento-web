@@ -91,19 +91,21 @@ Desenvolvimento web é o termo utilizado para descrever o desenvolvimento de sit
 
 <!-- SEMANA 07 -->
 >&#128311; **Semana 07**: Implantação de Aplicações Web em Nuvem - Azure e Google Cloud
->> Aula 15 - <br>
->> Aula 16 - <br>
->> Aula 17 - <br>
+>> Aula 15 - Implantação de Aplicações Web na Google Cloud<br>
+>> Aula 16 - Implantação de Aplicações Web na Azure<br>
 
 ---
 <!-- TOOLS & SKILLS -->
 # **TOOLS & SKILLS**:
 ![HTML5](https://img.shields.io/badge/-html_5-0D1117?style=for-the-badge&logo=html5&logoColor=orange&labelColor=0D1117)&nbsp;
 ![CSS3](https://img.shields.io/badge/-css_3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&color=0D1117&labelColor=0D1117)&nbsp;
-![JAVASCRIPT](https://img.shields.io/badge/jupyter-0D1117.svg?style=for-the-badge&logo=jupyter&logoColor=23FA0F00)&nbsp;
-![Git](https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git&logoColor=red)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-0D1117.svg?style=for-the-badge&logo=JavaScript&logoColor=23FA0F00)&nbsp;
+![APACHEWEBSERVER](https://img.shields.io/badge/APACHE_WEBSERVER-0D1117.svg?style=for-the-badge&logo=apache&logoColor=red)&nbsp;
+![GIT](https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git&logoColor=red)&nbsp;
+![GITHUB](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![VSCODE](https://img.shields.io/badge/-VS_CODE-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=1572B6&color=0D1117&labelColor=0D1117)&nbsp;
+![SUBLIME](https://img.shields.io/badge/-SUBLIME-0D1117?style=for-the-badge&logo=sublime-text&logoColor=23FA0F00&color=0D1117&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&logoColor=1572B6&color=0D1117&labelColor=0D1117)&nbsp;
 
 ---
 ### **RosaMaster**
