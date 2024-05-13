@@ -19,17 +19,37 @@ Desenvolvimento web é o termo utilizado para descrever o desenvolvimento de sit
 >**LifeLong Learning | Aprendizado ao longo da vida...**
 
 
-<!-- LINKS UTEIS
-> # OverView Tools
-> **INTERFACE ONLINE**
-> Jupyter Notebook: https://jupyter.org/ | https://jupyter.org/try-jupyter/lab/index.html<br>
-> **PYTHON**
-> Para configurar o Python no computador, é necessário fazer o download e instalar o kit de desenvolvimento em Python - https://www.python.org/downloads/<br>
-> **PYCHARM**
-> Iremos utilizar o PyCharm: https://www.jetbrains.com/pycharm/<br>
-> **VS CODE - Visual Studio Code**
-> Iremos utilizar o VSCode: https://code.visualstudio.com/
--->
+<!-- LINKS UTEIS -->
+> # OverView Tools & Links
+> **APLICAÇÕES WEB**<br>
+> https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Overview<br>
+> https://www.devmedia.com.br/como-funcionam-as-aplicacoes-web/25888<br>
+> https://blog.betrybe.com/desenvolvimento-web/aplicacoes-web/<br>
+> https://www.lifewire.com/what-is-a-web-application-3486637<br>
+> **COMPONENTES**<br>
+> https://blog.betrybe.com/desenvolvimento-web/aplicacoes-web/<br>
+> https://pt.wikipedia.org/wiki/Componentes_Web<br>
+> https://pt.wikipedia.org/wiki/WebKit<br>
+> https://webkit.org/<br>
+> https://www.webcomponents.org/<br>
+> https://developers.google.com/web/fundamentals/web-components<br>
+> https://web.dev/<br>
+> https://developer.chrome.com/<br>
+> https://www.webcomponents.org/collection/GoogleWebComponents/google-web-components<br>
+> https://github.com/Polymer/polymer<br>
+> https://www.w3schools.com/whatis/whatis_htmldom.asp<br>
+> https://www.w3schools.com/js/js_htmldom.asp<br>
+> **ARQUITETURA MVC**<br>
+> https://www.devmedia.com.br/aplicacao-web-usando-arquitetura-mvc/24375<br>
+> https://www.lewagon.com/pt-BR/blog/o-que-e-padrao-mvc<br>
+> https://pt.wikipedia.org/wiki/MVC<br>
+> https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Overview<br>
+> https://www.redhat.com/pt-br/topics/cloud-native-apps/what-are-cloud-applications<br>
+> **VS CODE - Visual Studio Code**<br>
+> **VS CODE - Visual Studio Code**<br>
+> **VS CODE - Visual Studio Code**<br>
+> Iremos utilizar o VSCode: https://code.visualstudio.com/<br>
+
 
 ---
 <!-- BÔNUS
@@ -78,9 +98,9 @@ Desenvolvimento web é o termo utilizado para descrever o desenvolvimento de sit
 ---
 <!-- TOOLS & SKILLS -->
 # **TOOLS & SKILLS**:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![PyCharm](https://img.shields.io/badge/pycharm-0D1117?style=for-the-badge&logo=pycharm&logoColor=green&color=0D1117&labelColor=0D1117)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-0D1117.svg?style=for-the-badge&logo=jupyter&logoColor=23FA0F00)&nbsp;
+![HTML5](https://img.shields.io/badge/-html_5-0D1117?style=for-the-badge&logo=html5&logoColor=orange&labelColor=0D1117)&nbsp;
+![CSS3](https://img.shields.io/badge/-css_3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&color=0D1117&labelColor=0D1117)&nbsp;
+![JAVASCRIPT](https://img.shields.io/badge/jupyter-0D1117.svg?style=for-the-badge&logo=jupyter&logoColor=23FA0F00)&nbsp;
 ![Git](https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git&logoColor=red)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 
