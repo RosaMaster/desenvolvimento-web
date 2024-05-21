@@ -1,7 +1,3 @@
-# desenvolvimento_web
-Desenvolvimento web é o termo utilizado para descrever o desenvolvimento de sites, na Internet ou numa intranet. O profissional que trabalha desenvolvendo websites pode ser um web designer ou um web developer.
-
-
 <!-- HEADER -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=258f76&height=140&section=header" alt="header"/>
 
@@ -49,7 +45,7 @@ Desenvolvimento web é o termo utilizado para descrever o desenvolvimento de sit
 > https://www.apachefriends.org/pt_br/index.html - **XAMPP**<br>
 > https://code.visualstudio.com/ - **VSCODE**<br>
 > https://www.sublimetext.com/ - **SUBLIMETEXT**<br>
-> **EXTESÕES**
+> **EXTESÕES**<br>
 > [ autoDocstring ]<br>
 > [ Git Graph ]<br>
 > [ Live Server ]<br>
