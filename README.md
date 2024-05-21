@@ -45,18 +45,18 @@ Desenvolvimento web é o termo utilizado para descrever o desenvolvimento de sit
 > https://pt.wikipedia.org/wiki/MVC<br>
 > https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Overview<br>
 > https://www.redhat.com/pt-br/topics/cloud-native-apps/what-are-cloud-applications<br>
-> **VS CODE - Visual Studio Code**<br>
-> **VS CODE - Visual Studio Code**<br>
-> **VS CODE - Visual Studio Code**<br>
-> Iremos utilizar o VSCode: https://code.visualstudio.com/<br>
-
+> **COMPONENTES AULAS**<br>
+> https://www.apachefriends.org/pt_br/index.html - **XAMPP**<br>
+> https://code.visualstudio.com/ - **VSCODE**<br>
+> https://www.sublimetext.com/ - **SUBLIMETEXT**<br>
+> **EXTESÕES**
+> [ autoDocstring ]<br>
+> [ Git Graph ]<br>
+> [ Live Server ]<br>
+> [ Material Icon Theme ]<br>
+> [ GitHub Copilot ]<br>
 
 ---
-<!-- BÔNUS
->&#128310; **Bônus**: Dados Faker
->> Bônus - Utilizando Biblioteca FAKER para testes<br>
--->
-
 <!-- SEMANA 01 -->
 >&#128311; **Semana 01**: História da Web
 >> Aula 01 - História da Internet e Web<br>
